@@ -24,7 +24,7 @@ export const metadata = {
     siteName: 'ACBDealer.com',
     images: [
       {
-        url: 'https://guptaswitchgears.com/opengraph-image.png',
+        url: 'https://www.acbdealer.com/category-1.png',
         width: 1200,
         height: 630,
         alt: 'ACBDealer.com by Gupta Switchgears',
